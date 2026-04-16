@@ -1,0 +1,51 @@
+EmployeeID,FullName,Department,JobTitle,Gender,Location,HireDate,Salary,PerformanceScore
+EMP001,Aarav Sharma,Sales,Sales Manager,Male,Mumbai,2020-01-15,85000,Exceeds
+EMP002,Aditi Rao,IT,Data Analyst,Female,Bangalore,2021-03-22,65000,Fully Meets
+EMP003,Arjun Gupta,HR,HR Specialist,Male,Delhi,2019-07-10,55000,Fully Meets
+EMP004,Ananya Singh,Marketing,Content Lead,Female,Pune,2022-05-18,72000,Exceeds
+EMP005,Ishaan Malhotra,Finance,Financial Analyst,Male,Hyderabad,2018-11-30,78000,Needs Improvement
+EMP006,Kavya Iyer,IT,Software Engineer,Female,Chennai,2023-01-05,92000,Fully Meets
+EMP007,Rohan Verma,Sales,Account Executive,Male,Mumbai,2021-09-12,58000,Fully Meets
+EMP008,Sanya Mirza,Operations,Operations Manager,Female,Bangalore,2017-04-25,88000,Exceeds
+EMP009,Vihaan Reddy,IT,System Admin,Male,Hyderabad,2020-08-14,62000,Fully Meets
+EMP010,Meera Joshi,HR,Recruiter,Female,Pune,2022-11-01,52000,Fully Meets
+EMP011,Aryan Khan,Marketing,SEO Specialist,Male,Delhi,2021-06-20,60000,Fully Meets
+EMP012,Diya Kapoor,Finance,Accountant,Female,Mumbai,2019-02-14,67000,Exceeds
+EMP013,Kabir Das,Sales,Sales Associate,Male,Chennai,2023-03-10,45000,Fully Meets
+EMP014,Myra Gill,IT,UX Designer,Female,Bangalore,2020-12-05,75000,Exceeds
+EMP015,Vivaan Shah,Operations,Logistics Lead,Male,Hyderabad,2018-05-22,70000,Fully Meets
+EMP016,Zoya Ahmed,Marketing,Digital Manager,Female,Delhi,2021-10-30,82000,Exceeds
+EMP017,Advait Joshi,Finance,Payroll Specialist,Male,Pune,2019-09-15,59000,Fully Meets
+EMP018,Kiara Advani,HR,HR Manager,Female,Mumbai,2017-01-12,95000,Exceeds
+EMP019,Reyansh Goel,IT,DevOps Engineer,Male,Bangalore,2022-04-08,98000,Fully Meets
+EMP020,Anika Taneja,Sales,Sales Lead,Female,Hyderabad,2020-07-25,74000,Fully Meets
+EMP021,Devansh Bajaj,Operations,Coordinator,Male,Chennai,2021-02-28,48000,Needs Improvement
+EMP022,Navya Nair,Marketing,Social Media,Female,Pune,2023-06-14,54000,Fully Meets
+EMP023,Atharva Patil,IT,Cloud Architect,Male,Mumbai,2018-03-19,120000,Exceeds
+EMP024,Sia Mehra,Finance,Tax Consultant,Female,Delhi,2020-11-11,71000,Fully Meets
+EMP025,Ranveer Singh,Sales,Sales Rep,Male,Bangalore,2022-08-05,50000,Fully Meets
+EMP026,Tara Sutaria,HR,Benefits Admin,Female,Hyderabad,2019-12-20,53000,Fully Meets
+EMP027,Shaurya Dixit,IT,QA Engineer,Male,Chennai,2021-05-02,68000,Fully Meets
+EMP028,Riya Sen,Operations,Analyst,Female,Pune,2020-01-30,61000,Exceeds
+EMP029,Ayaan Malik,Marketing,Analyst,Male,Mumbai,2022-09-18,63000,Fully Meets
+EMP030,Jhiya Roy,Finance,Controller,Female,Delhi,2017-08-14,105000,Exceeds
+EMP031,Pranav Rao,IT,Security Analyst,Male,Bangalore,2021-12-12,87000,Fully Meets
+EMP032,Nisha Pillai,Sales,Account Manager,Female,Hyderabad,2019-04-04,79000,Fully Meets
+EMP033,Yuvraj Singh,HR,Director,Male,Chennai,2016-10-25,135000,Exceeds
+EMP034,Alisha Chinai,Marketing,VP Marketing,Female,Pune,2018-06-30,140000,Exceeds
+EMP035,Hrithik Roshan,Operations,Director,Male,Mumbai,2015-11-20,150000,Exceeds
+EMP036,Sara Ali,IT,Front End Dev,Female,Delhi,2022-02-15,73000,Fully Meets
+EMP037,Varun Dhawan,Sales,Regional Lead,Male,Bangalore,2019-03-22,92000,Fully Meets
+EMP038,Janhvi Kapoor,HR,Coordinator,Female,Hyderabad,2023-04-10,49000,Fully Meets
+EMP039,Tiger Shroff,Operations,Supervisor,Male,Chennai,2021-07-05,56000,Needs Improvement
+EMP040,Kriti Sanon,Marketing,Designer,Female,Pune,2020-09-14,66000,Exceeds
+EMP041,Ayushmann Khurrana,Finance,Auditor,Male,Mumbai,2018-12-01,81000,Fully Meets
+EMP042,Bhumi Pednekar,IT,Support Tech,Female,Delhi,2022-08-25,47000,Fully Meets
+EMP043,Kartik Aaryan,Sales,Inside Sales,Male,Bangalore,2021-01-18,52000,Fully Meets
+EMP044,Rashmika Mandanna,HR,Recruiter,Female,Hyderabad,2022-10-12,51000,Fully Meets
+EMP045,Vicky Kaushal,Operations,Manager,Male,Chennai,2019-05-30,84000,Exceeds
+EMP046,Taapsee Pannu,Marketing,Brand Manager,Female,Pune,2017-03-15,89000,Exceeds
+EMP047,Rajkummar Rao,Finance,Analyst,Male,Mumbai,2020-06-22,69000,Fully Meets
+EMP048,Sanya Malhotra,IT,Database Admin,Female,Delhi,2021-11-08,77000,Fully Meets
+EMP049,Siddharth Malhotra,Sales,Executive,Male,Bangalore,2022-12-19,55000,Fully Meets
+EMP050,Pooja Hegde,HR,Specialist,Female,Hyderabad,2019-08-04,56000,Fully Meets
